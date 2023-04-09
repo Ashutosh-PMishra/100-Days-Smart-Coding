@@ -1,0 +1,1 @@
+int ascii_value = ch;
