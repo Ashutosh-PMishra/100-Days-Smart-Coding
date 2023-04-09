@@ -3,9 +3,8 @@
 ## [Playlist Link](https://www.youtube.com/playlist?list=PLYU6S1LdLhQhhc3HFWhDEkjy1HFTmglMk)
 
 ## Here is the Day wise Video Link 👇👇
-
-| [Day 1](https://youtu.be/WnazOVVK7dI) | [Day 11](https://youtu.be/RgB7UJUjnWs) | [Day 21]() | [Day 31]() | [Day 41]() |
 |:-------------------------------------:|:--------------------------------------:|:------------:|:---------:|:----------:|
+| [Day 1](https://youtu.be/WnazOVVK7dI) | [Day 11](https://youtu.be/RgB7UJUjnWs) | [Day 21]() | [Day 31]() | [Day 41]() |
 | [Day 2](https://youtu.be/Q5BOar-Jor4)  | [Day 12](https://youtu.be/sLlWOO1oRGU) |   
 | [Day 3](https://youtu.be/-J60Zc8gV5A)  | [Day 13](https://youtu.be/Gcvx-Q2c2YY) |
 | [Day 4](https://youtu.be/Sg0z5J5VafU)  | [Day 14](https://youtu.be/hd36SrnihOk) |
